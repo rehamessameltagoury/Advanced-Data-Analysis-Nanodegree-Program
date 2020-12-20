@@ -10,6 +10,6 @@
     5- Asking Questions
     
 ## Libraries used:
-   1- Pandas
-   2- Matplolib
-   3- Numpy
+   1. Pandas
+   2. Matplolib
+   3. Seaborn
